@@ -1,7 +1,2 @@
-# Dentelo - Dental Website
-Dentelo is a fully responsive dental website,
-responsive for all devices, build using HTML, CSS, and JavaScript.
-
-## Demo Screenshot
-![desktop](https://github.com/YpzarJohn24/Dentelo/assets/139552371/d46ecc79-8eb6-4db7-92ed-d9aa07b2fa3d)
-
+# DiwaDental – HTML5 and Bootstrap5 Template For Dentist and Medical Clinics
+ DiwaDental is a Modern Responsive template for Dentist & Dental Clinic website.This is built with Bootstrap 5.x and Sass. Any health-related website such as dentist clinic, dental practices, doctors clinic, hospital, doctor consultation center, cosmetic surgery center, medical laboratory, dental clinic, centenary clinic, pharmacy, etc. For healthcare professionals like a general practitioner, surgeon, dentist, veterinarian, psychiatrist, psychologist, ophthalmologist, physiotherapist, or gynecologist website, the template will be a great fit. Fully responsive design layouts with visitor-centric stunning look and feel will help reach the business’s target audience.
