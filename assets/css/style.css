@@ -5285,7 +5285,7 @@ select {
   top: 0;
   left: 0;
   width: 100%;
-  height: 68.5%;
+  height: 100%;
   z-index: -1;
 }
 
@@ -9692,4 +9692,42 @@ select {
 .back-to-top-2:hover {
   background-color: #213B7B;
   color: #ffffff;
+}
+
+.service-content-wrapper {
+  /* Add your desired styles for the wrapper */
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Two columns for mobile view */
+  gap: 20px; /* Adjust the gap between grid items */
+}
+
+.grid-item {
+  border-radius: 10px; /* Add rounded corners to grid items */
+  overflow: hidden; /* Hide any content that overflows the rounded corners */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Add a subtle box shadow for depth */
+}
+
+.grid-item-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 10px; /* Add padding to create space within grid items */
+}
+
+.icon {
+  width: 50px; /* Adjust the width of the icon container */
+  height: 50px; /* Adjust the height of the icon container */
+  margin-bottom: 10px; /* Add space between the icon and title */
+}
+
+.icon img {
+  width: 100%; /* Ensure the icon image fills its container */
+}
+
+h3 {
+  margin: 0; /* Remove margin around the title */
 }
